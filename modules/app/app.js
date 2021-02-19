@@ -4,11 +4,7 @@ const { CLIENT_ORIGIN } = require('../../config');
 
 const app = express();
 
-app.use(
-  cors({
-    origin: CLIENT_ORIGIN,
-  })
-);
+app.use(cors());
 
 //route below
 app.use('/api/people', require('../people/people.router'));
