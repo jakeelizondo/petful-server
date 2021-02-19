@@ -1,6 +1,6 @@
 # Petful (Node.js/Express Server)
 
-View the live application at: https://petful-client-jake.vercel.app/
+View the live application at: https://petful-client-jake.vercel.app/ \
 Base url for server is: https://jake-petful-server.herokuapp.com/
 
 Table of Contents:\
